@@ -37,4 +37,4 @@ Credit Card Fraud Detection Dataset from Kaggle.
 The project compares Logistic Regression and Naive Bayes models for detecting fraudulent transactions.
 
 ## Author
-Your Name
+HARISH YASVANTH AV
